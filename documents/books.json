@@ -1,0 +1,224 @@
+{
+  "books": [
+    {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "genre": "Fiction",
+      "publication_year": 2003,
+      "description": "A haunting tale of friendship and redemption set against the backdrop of a changing Afghanistan.",
+      "reviews": {
+        "positive": "Beautifully written, emotionally powerful, offers deep insight into Afghan culture.",
+        "negative": "Some readers found the pacing slow in the middle chapters."
+      }
+    },
+    {
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "genre": "Mystery/Thriller",
+      "publication_year": 2005,
+      "description": "A gripping mystery involving a journalist and a hacker unraveling dark family secrets in Sweden.",
+      "reviews": {
+        "positive": "Complex characters and a compelling plot that keeps readers hooked.",
+        "negative": "Graphic content and violence may not be suitable for all readers."
+      }
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "publication_year": 2000,
+      "description": "The fourth installment in the Harry Potter series, where Harry faces new challenges and deadly tournaments.",
+      "reviews": {
+        "positive": "Exciting, magical, and expands the Harry Potter universe wonderfully.",
+        "negative": "Some fans felt it was darker and less suitable for younger readers."
+      }
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "genre": "Post-apocalyptic Fiction",
+      "publication_year": 2006,
+      "description": "A bleak yet tender story of a father and son's survival journey through a devastated America.",
+      "reviews": {
+        "positive": "Haunting prose and a moving portrayal of love and survival.",
+        "negative": "The grim tone and sparse style can be challenging to read."
+      }
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "genre": "Young Adult/Dystopian",
+      "publication_year": 2008,
+      "description": "In a dystopian future, teenagers are forced to fight to the death in a televised event.",
+      "reviews": {
+        "positive": "Fast-paced, thrilling, with strong themes of resistance and survival.",
+        "negative": "Some criticism of character development and plot predictability."
+      }
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "genre": "Psychological Thriller",
+      "publication_year": 2012,
+      "description": "A twisted tale of a marriage gone terribly wrong, full of suspense and unexpected twists.",
+      "reviews": {
+        "positive": "Sharp writing and a masterful plot twist that surprises readers.",
+        "negative": "Some readers felt the characters were unlikeable or disturbing."
+      }
+    },
+    {
+      "title": "Life of Pi",
+      "author": "Yann Martel",
+      "genre": "Adventure/Fantasy",
+      "publication_year": 2001,
+      "description": "A young boy survives a shipwreck in a lifeboat with a Bengal tiger, exploring faith and survival.",
+      "reviews": {
+        "positive": "Inventive storytelling with deep philosophical themes.",
+        "negative": "The narrative style may not appeal to everyone."
+      }
+    },
+    {
+      "title": "Twilight",
+      "author": "Stephenie Meyer",
+      "genre": "Young Adult/Fantasy/Romance",
+      "publication_year": 2005,
+      "description": "A teenage girl falls in love with a mysterious vampire, sparking a passionate and dangerous romance.",
+      "reviews": {
+        "positive": "Engaging and addictive for fans of romance and fantasy.",
+        "negative": "Criticized for writing style and portrayal of relationships."
+      }
+    },
+    {
+      "title": "The Help",
+      "author": "Kathryn Stockett",
+      "genre": "Historical Fiction",
+      "publication_year": 2009,
+      "description": "Set in 1960s Mississippi, a story about black maids working for white families and their intertwined lives.",
+      "reviews": {
+        "positive": "Heartfelt and powerful, with rich characters and social insight.",
+        "negative": "Some controversy over cultural representation."
+      }
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "genre": "Young Adult/Romance",
+      "publication_year": 2012,
+      "description": "Two teenagers with cancer fall in love, exploring life, love, and loss with humor and poignancy.",
+      "reviews": {
+        "positive": "Emotional, relatable, and beautifully written.",
+        "negative": "Some readers found it overly sentimental."
+      }
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Classic/Literary Fiction",
+      "publication_year": 1960,
+      "description": "A young girl comes of age in the racially charged American South of the 1930s.",
+      "reviews": {
+        "positive": "Powerful themes and memorable characters.",
+        "negative": "Some modern readers find the pacing slow."
+      }
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian Fiction",
+      "publication_year": 1949,
+      "description": "A chilling vision of a totalitarian regime that suppresses truth and individuality.",
+      "reviews": {
+        "positive": "Profoundly influential and eerily prescient.",
+        "negative": "Dense political themes may not appeal to all."
+      }
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Coming-of-Age Fiction",
+      "publication_year": 1951,
+      "description": "A teenage boy recounts a few days of wandering New York after being expelled from school.",
+      "reviews": {
+        "positive": "Authentic voice and timeless teenage angst.",
+        "negative": "Protagonist can be polarizing."
+      }
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "genre": "Romance/Classic",
+      "publication_year": 1813,
+      "description": "A spirited young woman navigates love and class in Georgian England.",
+      "reviews": {
+        "positive": "Witty dialogue and enduring themes of love and pride.",
+        "negative": "Old-fashioned language can be challenging."
+      }
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "publication_year": 1937,
+      "description": "A hobbit embarks on a quest with dwarves to reclaim treasure from a dragon.",
+      "reviews": {
+        "positive": "Whimsical and richly imaginative.",
+        "negative": "Some modern readers may find the tone too light."
+      }
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Classic/American Literature",
+      "publication_year": 1925,
+      "description": "A mysterious millionaire throws lavish parties during the Jazz Age, hiding a tragic love story.",
+      "reviews": {
+        "positive": "Elegant prose and rich symbolism.",
+        "negative": "Characters can seem unrelatable or shallow."
+      }
+    },
+    {
+      "title": "Beloved",
+      "author": "Toni Morrison",
+      "genre": "Historical Fiction/Magical Realism",
+      "publication_year": 1987,
+      "description": "A formerly enslaved woman is haunted by her past and the ghost of her dead daughter.",
+      "reviews": {
+        "positive": "Poetic and emotionally profound.",
+        "negative": "Complex structure can be challenging."
+      }
+    },
+    {
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "genre": "Magical Realism",
+      "publication_year": 1967,
+      "description": "The rise and fall of the Buendía family in the mythical town of Macondo.",
+      "reviews": {
+        "positive": "Masterpiece of magical realism.",
+        "negative": "Large cast and nonlinear story may be hard to follow."
+      }
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "genre": "Philosophical Fiction",
+      "publication_year": 1988,
+      "description": "A shepherd boy sets out to find treasure and discovers deeper truths about life.",
+      "reviews": {
+        "positive": "Inspirational and simple in its wisdom.",
+        "negative": "Some find it overly simplistic or repetitive."
+      }
+    },
+    {
+      "title": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "genre": "Dystopian Fiction",
+      "publication_year": 1985,
+      "description": "In a theocratic future, women are subjugated in a chilling authoritarian society.",
+      "reviews": {
+        "positive": "Provocative and powerful social commentary.",
+        "negative": "Bleak tone and pacing may deter some readers."
+      }
+    }
+  ]
+}
